@@ -1,0 +1,7 @@
+Link Asset :
+https://assetstore.unity.com/packages/templates/systems/racing-starter-kit-169750
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+https://assetstore.unity.com/packages/essentials/tutorial-projects/starter-pack-synty-polygon-stylized-low-poly-3d-art-156819
+https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
+
+Untuk tutorial saya tidak melihat youtube, saya hanya membaca buku panduan pada asset "racing starter kit"
